@@ -1,0 +1,8 @@
+id,user_id,policy_id,health_factor,status,current_premium
+1,1,2,3,Average,1000
+2,2,1,4,Average,1500
+3,3,1,4,Normal,1000
+4,4,2,2,Normal,1500
+5,5,2,3,Normal,1500
+6,6,2,2,NULL,1500
+7,7,2,4,NULL,1500

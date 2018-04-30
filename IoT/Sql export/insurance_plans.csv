@@ -1,0 +1,5 @@
+id,age_group,premium,plan_name
+1,1-25,1000,"Plan A"
+2,26-40,1500,"Plan B"
+3,41-70,2500,"Plan C"
+4,71-90,3500,"Plan D"

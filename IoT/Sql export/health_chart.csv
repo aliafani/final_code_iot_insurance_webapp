@@ -1,0 +1,4 @@
+id,age_min,age_max,low_blood_pressure,normal_blood_pressure,elevated_pressure,heart_rate_good,heart_rate_poor,steps_inactive,steps_low_active,steps_active
+1,18,25,90-60,120-80,129-80,62-65,82+,5000,7000-8000,10000
+2,26,40,90-60,120-80,129-80,63-66,83+,5000,7000-8000,10000
+3,41,70,90-60,120-80,129-80,62-65,80+,5000,7000,8000

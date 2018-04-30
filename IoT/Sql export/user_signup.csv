@@ -1,0 +1,8 @@
+id,user_name,email,gender,age,weight,hear_rate,blood_pressure,height,BMI,password,steps_day
+1,"Ali Fani",alifani@yopmail.com,M,35,145,65,120-80,5.7,N,1234@,NULL
+2,Tom,Tom@yopmail.com,M,25,150,85,120-90,6.0,NA,12345,100
+3,Rob,rob@yopmail,M,25,150,85,120-90,6.0,NA,12345,NULL
+4,mike,mike@yopmail.com,M,26,150,85,120-90,5.8,NA,12345,1000
+5,lacy,lacy@yopmail.com,F,26,120,65,120-90,5.5,Na,12345,NULL
+6,Arick,arick@yopmail.com,M,26,145,65,120-90,6.0,NA,12345,NULL
+7,Matt,matt@yopmail.com,M,26,150,65,120-90,6.0,NA,12345,NULL
